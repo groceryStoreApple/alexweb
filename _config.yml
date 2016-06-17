@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Haonan (Alex) Jing
-  email: "jing.haonan.18@domain.com"
+  email: "jing.haonan.18@berkeley.edu"
   facebook: https://www.facebook.com/haonan.jing  # eg. daattali
   github: https://github.com/groceryStoreApple    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "AlexJing.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
