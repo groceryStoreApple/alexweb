@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Professional:
-    - resume: "resume"
+    - resume: "static/resume.pdf"
     - transcript: "static/transcript.pdf"
   Student Resources:
     - cs61c: "cs61c/"
