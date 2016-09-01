@@ -9,3 +9,7 @@ layout: page
 <p>I enjoy teaching CS because I understand how hard it can be for someone who has never coded in their life and it makes me really happy if I can help make coding less daunting to them, just like how others helped me.</p>
 
 <p>In my spare time, I enjoyed cooking and running. I will be running SF half marathon in the end of July.</p>
+
+<p>--update-- I finished the SF marathon, here's a picture of me at the finish line.</p>
+
+<img src="../img/marathon.jpg" alt="">
